@@ -1,6 +1,53 @@
-#skydive {
-	position: fixed;
+
+#picture {
+	position: absolute;
 	top: 0;
 	left: 0;
+}
+
+#skydive {
 	width: 100%;
 }
+
+#name {
+	height: 50%;
+	position: absolute;
+	margin-top: 55%;
+	margin-left: 15%;
+	font-family: "Trebuchet MS";
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	font-size: 40px;
+}
+
+
+
+/*
+.social-slide {
+    height: 48px;
+    width: 48px;
+    margin: 10px;
+    float: left;
+    -webkit-transition: all ease 0.3s;
+    -moz-transition: all ease 0.3s;
+    -o-transition: all ease 0.3s;
+    -ms-transition: all ease 0.3s;
+    transition: all ease 0.3s;
+    cursor:pointer;
+    margin-top: 10px;
+    -moz-box-shadow:inset -7px -4px 22px #000000;
+    -webkit-box-shadow:inset -7px -4px 22px #000000;
+    box-shadow:inset -7px -4px 22px #000000; 
+}
+.social-slide:hover{
+  background-position: 0px -48px;
+}
+.twitter-hover{
+    background-image:url('pictures/twitter-hover.png');
+}
+.linkedin-hover{
+    background-image:url('pictures/linkedin-hover.png');
+}
+.facebook-hover{
+    background-image:url('pictures/facebook-hover.png');
+}*/
